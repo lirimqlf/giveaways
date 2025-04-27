@@ -1,8 +1,3 @@
-Of course! 😎  
-Here's a **clean, polished, GitHub-ready README** for your **Giveaways Bot** based on the requirements you sent:  
-
----
-
 <div align="center">
 
 # 🎉 QLF Giveaways Bot
